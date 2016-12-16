@@ -5,5 +5,5 @@ Updated
 
 jflkasjfadkls;fjdal;ksj
 
-More new stuff on branch "updates"
+Modified on the same line -- bound to cause trouble on git!
 
